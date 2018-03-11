@@ -2,68 +2,87 @@
 	"filters": [
 		{
 			"name": "kazak",
+			"id": 1,
 			"list": [
 				{
-					"name": "kazak"
+					"name": "kazak",
+					"id": 11
 				}
 			]
 		},
 		{
 			"name": "bluz,penye",
+			"id": 2,
 			"list": [
 				{
-					"name": "bluz"
+					"name": "bluz",
+					"id": 21
 				},
 				{
-					"name": "deri bluz"
+					"name": "deri bluz",
+					"id": 22
 				},
 				{
-					"name": "tshirt"
+					"name": "tshirt",
+					"id": 23
 				},
 				{
-					"name": "tunik"
+					"name": "tunik",
+					"id": 24
 				}
 			]
 		},
 		{
 			"name": "ceket",
+			"id": 3,
 			"list": [
 				{
-					"name": "ceket"
+					"name": "ceket",
+					"id": 31
 				},
 				{
-					"name": "deri ceket"
+					"name": "deri ceket",
+					"id": 32
 				},
 				{
-					"name": "deri bolero"
+					"name": "deri bolero",
+					"id": 33
 				}
 			]
 		},
 		{
 			"name": "beden",
+			"id": 40,
 			"list": [
 				{
-					"name": "xs"
+					"name": "xs",
+					"id": 41
 				},
 				{
-					"name": "s"
+					"name": "s",
+					"id": 42
 				},
 				{
-					"name": "m"
+					"name": "m",
+					"id": 43
 				}
 			]
 		},
 		{
 			"name": "renk",
+			"id": 50,
 			"list": [
 				{
-					"name": "mavi"
+					"name": "mavi",
+					"id": 51
 				},
 				{
-					"name": "sarı"
+					"name": "sarı",
+					"id": 52
 				},
 				{
-					"name": "fuşya"
+					"name": "fuşya",
+					"id": 53
 				}
 			]
 		}
