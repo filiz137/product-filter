@@ -1,0 +1,71 @@
+{
+	"filters": [
+		{
+			"name": "kazak",
+			"list": [
+				{
+					"name": "kazak"
+				}
+			]
+		},
+		{
+			"name": "bluz,penye",
+			"list": [
+				{
+					"name": "bluz"
+				},
+				{
+					"name": "deri bluz"
+				},
+				{
+					"name": "tshirt"
+				},
+				{
+					"name": "tunik"
+				}
+			]
+		},
+		{
+			"name": "ceket",
+			"list": [
+				{
+					"name": "ceket"
+				},
+				{
+					"name": "deri ceket"
+				},
+				{
+					"name": "deri bolero"
+				}
+			]
+		},
+		{
+			"name": "beden",
+			"list": [
+				{
+					"name": "xs"
+				},
+				{
+					"name": "s"
+				},
+				{
+					"name": "m"
+				}
+			]
+		},
+		{
+			"name": "renk",
+			"list": [
+				{
+					"name": "mavi"
+				},
+				{
+					"name": "sarı"
+				},
+				{
+					"name": "fuşya"
+				}
+			]
+		}
+	]
+}
