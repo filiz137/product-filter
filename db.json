@@ -101,6 +101,10 @@
 		"order": [
 			{
 				"name": "Akıllı Sıralama",
+				"value": ""
+			},
+			{
+				"name": "Yeni Ürünler",
 				"value": "Editor"
 			},
 			{
@@ -109,7 +113,7 @@
 			},
 			{
 				"name": "Artan Fiyat",
-				"value": ""
+				"value": "PriceUptoDown"
 			}
 		],
 		"price": {
