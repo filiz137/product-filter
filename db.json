@@ -75,8 +75,14 @@
 				"selected": true
 			},
 			{
-				"name": "mor",
+				"name": "Yeşil",
 				"id": 53,
+				"value": "#663399",
+				"selected": false
+			},
+			{
+				"name": "Mürdüm",
+				"id": 54,
 				"value": "#663399",
 				"selected": false
 			}
