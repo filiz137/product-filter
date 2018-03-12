@@ -104,8 +104,12 @@
 				"value": "Editor"
 			},
 			{
-				"name": "Düşükten Yükseğe",
+				"name": "Azalan Fiyat",
 				"value": "PriceDowntoUp"
+			},
+			{
+				"name": "Artan Fiyat",
+				"value": ""
 			}
 		],
 		"price": {
