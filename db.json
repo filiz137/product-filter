@@ -6,7 +6,9 @@
 			"list": [
 				{
 					"name": "kazak",
-					"id": 11
+					"id": 11,
+					"selected": false,
+					"count": 0
 				}
 			]
 		},
@@ -16,19 +18,23 @@
 			"list": [
 				{
 					"name": "bluz",
-					"id": 21
+					"id": 21,
+					"selected": false
 				},
 				{
 					"name": "deri bluz",
-					"id": 22
+					"id": 22,
+					"selected": false
 				},
 				{
 					"name": "tshirt",
-					"id": 23
+					"id": 23,
+					"selected": false
 				},
 				{
 					"name": "tunik",
-					"id": 24
+					"id": 24,
+					"selected": false
 				}
 			]
 		},
@@ -38,15 +44,18 @@
 			"list": [
 				{
 					"name": "ceket",
-					"id": 31
+					"id": 31,
+					"selected": false
 				},
 				{
 					"name": "deri ceket",
-					"id": 32
+					"id": 32,
+					"selected": false
 				},
 				{
 					"name": "deri bolero",
-					"id": 33
+					"id": 33,
+					"selected": false
 				}
 			]
 		},
@@ -56,15 +65,18 @@
 			"list": [
 				{
 					"name": "xs",
-					"id": 41
+					"id": 41,
+					"selected": false
 				},
 				{
 					"name": "s",
-					"id": 42
+					"id": 42,
+					"selected": false
 				},
 				{
 					"name": "m",
-					"id": 43
+					"id": 43,
+					"selected": false
 				}
 			]
 		},
@@ -74,15 +86,18 @@
 			"list": [
 				{
 					"name": "mavi",
-					"id": 51
+					"id": 51,
+					"selected": true
 				},
 				{
 					"name": "sarı",
-					"id": 52
+					"id": 52,
+					"selected": true
 				},
 				{
 					"name": "fuşya",
-					"id": 53
+					"id": 53,
+					"selected": false
 				}
 			]
 		}
