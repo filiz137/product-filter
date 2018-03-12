@@ -60,60 +60,58 @@
 			]
 		}
 	],
-	"options": [
-		{
-			"color": [
-				{
-					"name": "mavi",
-					"id": 51,
-					"value": "#6699FF",
-					"selected": true
-				},
-				{
-					"name": "sarı",
-					"id": 52,
-					"value": "#FFFF00",
-					"selected": true
-				},
-				{
-					"name": "mor",
-					"id": 53,
-					"value": "#663399",
-					"selected": false
-				}
-			],
-			"size": [
-				{
-					"name": "xs",
-					"id": 41,
-					"selected": false
-				},
-				{
-					"name": "s",
-					"id": 42,
-					"selected": true
-				},
-				{
-					"name": "m",
-					"id": 43,
-					"selected": false
-				}
-			],
-			"order": [
-				{
-					"name": "Akıllı Sıralama",
-					"value": "Editor"
-				},
-				{
-					"name": "Düşükten Yükseğe",
-					"value": "PriceDowntoUp"
-				}
-			],
-			"price": {
-				"min": 0,
-				"max": 5000
+	"options": {
+		"color": [
+			{
+				"name": "mavi",
+				"id": 51,
+				"value": "#6699FF",
+				"selected": true
 			},
-			"newSeason": false
-		}
-	]
+			{
+				"name": "sarı",
+				"id": 52,
+				"value": "#FFFF00",
+				"selected": true
+			},
+			{
+				"name": "mor",
+				"id": 53,
+				"value": "#663399",
+				"selected": false
+			}
+		],
+		"size": [
+			{
+				"name": "xs",
+				"id": 41,
+				"selected": false
+			},
+			{
+				"name": "s",
+				"id": 42,
+				"selected": true
+			},
+			{
+				"name": "m",
+				"id": 43,
+				"selected": false
+			}
+		],
+		"order": [
+			{
+				"name": "Akıllı Sıralama",
+				"value": "Editor"
+			},
+			{
+				"name": "Düşükten Yükseğe",
+				"value": "PriceDowntoUp"
+			}
+		],
+		"price": {
+			"min": 0,
+			"max": 5000
+		},
+		"newSeason": false
+	}
 }
