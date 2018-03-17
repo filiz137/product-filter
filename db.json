@@ -102,6 +102,41 @@
 				"name": "m",
 				"id": 43,
 				"selected": false
+			},
+			{
+				"name": "l",
+				"id": 44,
+				"selected": false
+			},
+			{
+				"name": "xl",
+				"id": 45,
+				"selected": true
+			},
+			{
+				"name": "xxl",
+				"id": 46,
+				"selected": false
+			},
+			{
+				"name": "32",
+				"id": 47,
+				"selected": false
+			},
+			{
+				"name": "34",
+				"id": 48,
+				"selected": true
+			},
+			{
+				"name": "36",
+				"id": 49,
+				"selected": false
+			},
+			{
+				"name": "38",
+				"id": 49,
+				"selected": false
 			}
 		],
 		"order": [
