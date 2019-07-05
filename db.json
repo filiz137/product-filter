@@ -1,166 +1,102 @@
 {
-	"filters": [
+	"Name": "Nike Koşu Sweatshirt",
+	"Description": "Parmak delikleri: Yarım eldiven imkanı verir, kolu sabitler. Yarım fermuar: Gerektiğinde nefes almayı sağlar. Reglan kollar: Dikişsizdir, hareketi kolaylaştırır. Esnek fitilli sırt: Hareket kabiliyeti sağlar. Yansıtıcılar: Karanlıkta görünme imkanı verir.",
+	"ProductCode": "5002364781_200",
+	"BoynerPrice": 185.97,
+	"Price1": 185.97,
+	"Price2": 185.97,
+	"ListPrice": 309.95,
+	"ProductOptions": {
+		"sizeOptions": [
+			{
+				"optionId": 19579,
+				"value": "S"
+			},
+			{
+				"optionId": 19580,
+				"value": "M"
+			},
+			{
+				"optionId": 19581,
+				"value": "L"
+			},
+			{
+				"optionId": 19582,
+				"value": "XL"
+			},
+			{
+				"optionId": 19583,
+				"value": "2XL"
+			}
+		],
+		"colorOptions": [
+			{
+				"optionId": 950,
+				"value": "Kahve"
+			},
+			{
+				"optionId": 951,
+				"value": "Beyaz"
+			},
+			{
+				"optionId": 952,
+				"value": "Siyah"
+			},
+			{
+				"optionId": 953,
+				"value": "Kırmızı"
+			}
+		],
+		"variantStock": [
+			{
+				"variantId": 123123,
+				"stock": 4
+			},
+			{
+				"variantId": 222333,
+				"stock": 5
+			}
+		]
+	},
+	"ImageList": [
 		{
-			"name": "kazak",
-			"id": 1,
-			"list": [
-				{
-					"name": "kazak",
-					"id": 11,
-					"selected": false,
-					"count": 0
-				}
-			]
+			"externalSystemCode": 5002364781,
+			"urlPath": "5002364781_200_01",
+			"altText": "Nike Parmak Delikli Koşu Sweatshirt"
 		},
 		{
-			"name": "bluz,penye",
-			"id": 2,
-			"list": [
-				{
-					"name": "bluz",
-					"id": 21,
-					"selected": false
-				},
-				{
-					"name": "deri bluz",
-					"id": 22,
-					"selected": false
-				},
-				{
-					"name": "tshirt",
-					"id": 23,
-					"selected": false
-				},
-				{
-					"name": "tunik",
-					"id": 24,
-					"selected": false
-				}
-			]
+			"externalSystemCode": 5002364781,
+			"urlPath": "5002364781_200_02",
+			"altText": "Nike Parmak Delikli Koşu Sweatshirt Detay"
 		},
 		{
-			"name": "ceket",
-			"id": 3,
-			"list": [
-				{
-					"name": "ceket",
-					"id": 31,
-					"selected": false
-				},
-				{
-					"name": "deri ceket",
-					"id": 32,
-					"selected": false
-				},
-				{
-					"name": "deri bolero",
-					"id": 33,
-					"selected": false
-				}
-			]
+			"externalSystemCode": 5002364781,
+			"urlPath": "5002364781_200_03",
+			"altText": "Nike Parmak Delikli Koşu Sweatshirt Arka"
+		},
+		{
+			"externalSystemCode": 5002364781,
+			"urlPath": "5002364781_200_04",
+			"altText": "Nike Parmak Delikli Koşu Sweatshirt Yan"
 		}
 	],
-	"options": {
-		"color": [
-			{
-				"name": "mavi",
-				"id": 51,
-				"value": "#6699FF",
-				"selected": true
-			},
-			{
-				"name": "sarı",
-				"id": 52,
-				"value": "#FFFF00",
-				"selected": true
-			},
-			{
-				"name": "Yeşil",
-				"id": 53,
-				"value": "#069d00",
-				"selected": false
-			},
-			{
-				"name": "Mürdüm",
-				"id": 54,
-				"value": "#663399",
-				"selected": false
-			}
-		],
-		"size": [
-			{
-				"name": "xs",
-				"id": 41,
-				"selected": false
-			},
-			{
-				"name": "s",
-				"id": 42,
-				"selected": true
-			},
-			{
-				"name": "m",
-				"id": 43,
-				"selected": false
-			},
-			{
-				"name": "l",
-				"id": 44,
-				"selected": false
-			},
-			{
-				"name": "xl",
-				"id": 45,
-				"selected": true
-			},
-			{
-				"name": "xxl",
-				"id": 46,
-				"selected": false
-			},
-			{
-				"name": "32",
-				"id": 47,
-				"selected": false
-			},
-			{
-				"name": "34",
-				"id": 48,
-				"selected": true
-			},
-			{
-				"name": "36",
-				"id": 49,
-				"selected": false
-			},
-			{
-				"name": "38",
-				"id": 449,
-				"selected": false
-			}
-		],
-		"order": [
-			{
-				"name": "Akıllı Sıralama",
-				"value": ""
-			},
-			{
-				"name": "Yeni Ürünler",
-				"value": "Editor"
-			},
-			{
-				"name": "Azalan Fiyat",
-				"value": "PriceDowntoUp"
-			},
-			{
-				"name": "Artan Fiyat",
-				"value": "PriceUptoDown"
-			}
-		],
-		"price": {
-			"min": 0,
-			"max": 5000
-		},
-		"newSeason": false
-	}
+	"Attributes": {
+		"brand": "Nike",
+		"sex": "Kadın",
+		"isFreeCargo": "false",
+		"tecnology": "DryVent™ dış katman suyu dış yüzeyden uzaklaştırır ve aşınmaya karşı korurken, iç katman su buharını dış katmana aktarır. Sonuç olarak içi ve dışı kuru kalan sıra dışı su geçirmez ve nefes alan bir teknoloji ortaya çıkar.",
+		"modelCode": "843564",
+		"fabricInfo": "Kumaş, gövde | 70D 106 g/m² DryVent™ 2—%100 naylon Gövde astarı | 40D 50 g/m² %100 polyester ağ Kol ve kapüşon astarı | 75D 67 g/m² %100 polyester tafta Baskılı kapüşon astarı | 50D 80 g/m² %100 polyester tafta",
+		"usage": "30°C 'de çamaşır makinesinde, benzer renklerle yıkama yapılabilir. Düşük ısıda ütüleme yapılmalıdır."
+	},
+	"Breadcrumb": "Ana Sayfa, Kadın Spor Giyim, Kadın Sweatshirt, Nike Sweatshirt",
+	"DiscountRate": "40",
+	"isClickAndCollect": "true",
+	"reviews": {
+		"description": "Ürün yorumları ve değerlendirme puanları."
+	},
+	"stores": {
+		"description": "Ürünün hangi mağazalardan alınabileceği bilgisi."
+	},
+	"id": "751b3a7b0a84189d"
 }
